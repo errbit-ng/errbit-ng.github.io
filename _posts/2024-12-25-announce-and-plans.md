@@ -26,6 +26,6 @@ Current development of Errbit is stale. I try hard to make a bunch of changes to
 
 And then, PR with [Rails 6.1 upgrade](Rails_6.1_upgrade) stuck from Aug 27, 2022.
 
-[Errbit](https://github.com/errbit/errbit)
-[Errbit-NG](https://github.com/errbit-ng/errbit-ng)
-[Rails_6.1_upgrade](https://github.com/errbit/errbit/pull/1533)
+[Errbit]: https://github.com/errbit/errbit
+[Errbit-NG]: https://github.com/errbit-ng/errbit-ng
+[Rails_6.1_upgrade]: https://github.com/errbit/errbit/pull/1533
