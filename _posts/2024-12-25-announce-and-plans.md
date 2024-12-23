@@ -78,6 +78,10 @@ First alpha release in Q1 2025. List of blocking issues:
 
 First stable release as soon as it will be ready.
 
+Subscribe to RSS to track our news.
+
+Thanks for reading!
+
 [Errbit]: https://github.com/errbit/errbit
 [Errbit-NG]: https://github.com/errbit-ng/errbit-ng
 [Rails_6.1_upgrade]: https://github.com/errbit/errbit/pull/1533
