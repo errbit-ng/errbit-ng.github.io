@@ -59,6 +59,7 @@ Before describing any plans, let me show what was already done in fork.
 15. [Replace poltergeist with selenium-webdriver](https://github.com/errbit-ng/errbit-ng/commit/2f04c1645e42bbf0f0dd8cd1c22a01450659d3a1)
 16. [Drop mini_racer gem](https://github.com/errbit-ng/errbit-ng/commit/b1a2aa1dcf7d236b28c15032b0626a89a4d70250#diff-d09ea66f8227784ff4393d88a19836f321c915ae10031d16c93d67e6283ab55fL94)
 17. [Ruby 3.3.6](https://github.com/errbit-ng/errbit-ng/commit/6b169f9eabda02f71959aeec627e1e1aadbbe356)
+18. [Update RubyGems to 3.6.1 & Bundler to 2.6.1](https://github.com/errbit-ng/errbit-ng/pull/177)
 
 And... Plan:
 
