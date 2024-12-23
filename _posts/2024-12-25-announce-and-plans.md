@@ -2,7 +2,7 @@
 layout: post
 title: "Errbit-NG: Announce and plans"
 author: biow0lf
-date: 2024-12-25 12:00:00 +0100
+date: 2023-12-25 12:00:00 +0100
 ---
 
 Hi!
