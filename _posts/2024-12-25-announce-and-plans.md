@@ -32,7 +32,7 @@ So, what I should do when I need simple and self-hosted error tracker? I fork it
 
 With all my respect to all original Authors of Errbit and with all my respect to all contributors to original Errbit, We need fresh blood.
 
-Ok, who am I? I am [Igor (Ihor) Zubkov](biow0lf). Software developer from Mariupol, Ukraine. You may see Mariupol in news and see how brave defenders of Ukraine fight with russian occupants. 
+Ok, who am I? I am [Igor (Ihor) Zubkov](biow0lf). Software developer from Mariupol, Ukraine. You may see Mariupol in news and see how brave defenders of Ukraine fight with russian occupants.
 
 So, fork goal:
 
@@ -62,8 +62,21 @@ Before describing any plans, let me show what was already done in fork.
 
 And... Plan:
 
-1. Enable docker builds
-2. 
+1. Enable official docker builds
+2. Upgrade Ruby on Rails to 7.0.x
+3. Upgrade Ruby on Rails to 7.1.x
+4. Upgrade Ruby on Rails to 7.2.x
+5. Upgrade Ruby on Rails to 8.0.x
+6. Remove jQuery
+7. Migrate to Turbo and Stimulus
+
+First alpha release in Q1 2025. List of blocking issues:
+
+1. Upgrade Ruby on Rails (at least) to 7.2.x
+2. Enable official docker builds
+3. Some kind of documentation
+
+First stable release as soon as it will be ready.
 
 [Errbit]: https://github.com/errbit/errbit
 [Errbit-NG]: https://github.com/errbit-ng/errbit-ng
