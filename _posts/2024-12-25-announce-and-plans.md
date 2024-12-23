@@ -76,7 +76,7 @@ First alpha release in Q1 2025. List of blocking issues:
 2. Enable official docker builds
 3. Some kind of documentation
 
-First stable release as soon as it will be ready.
+First stable release as soon as it will be ready after alpha/beta testing.
 
 Subscribe to RSS to track our news.
 
