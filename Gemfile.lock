@@ -45,7 +45,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    jekyll (4.4.0)
+    jekyll (4.4.1)
       addressable (~> 2.4)
       base64 (~> 0.2)
       colorator (~> 1.0)
@@ -168,7 +168,7 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.4.0)
+  jekyll (~> 4.4.1)
   jekyll-feed (~> 0.12)
   logger
   minima (~> 2.5)
@@ -205,7 +205,7 @@ CHECKSUMS
   google-protobuf (4.29.3-x86_64-linux) sha256=4ac194b06c59559457ce1d1d57d03760b50e009dbcfe5ef065a1af48ce4a2d0e
   http_parser.rb (0.8.0) sha256=5a0932f1fa82ce08a8516a2685d5a86031c000560f89946913c555a0697544be
   i18n (1.14.7) sha256=ceba573f8138ff2c0915427f1fc5bdf4aa3ab8ae88c8ce255eb3ecf0a11a5d0f
-  jekyll (4.4.0) sha256=cc039347c22ec1fa70a976a796d1ee581bbfc95967cc1f80fb5aef018ae9d5b4
+  jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
   jekyll-sass-converter (3.0.0) sha256=e2e7674f186e906b9d99b8066e13f9b4d5cb9f806d36f7bc8cf2610053d8c902
   jekyll-seo-tag (2.8.0) sha256=3f2ed1916d56f14ebfa38e24acde9b7c946df70cb183af2cb5f0598f21ae6818
