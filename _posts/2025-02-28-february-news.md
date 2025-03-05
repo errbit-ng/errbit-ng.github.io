@@ -13,4 +13,4 @@ Hi!
 * [Ruby on Rails 7.2](https://github.com/errbit-ng/errbit-ng/pull/256)
 * [Drop Flowdock support (it's not working anymore)](https://github.com/errbit-ng/errbit-ng/pull/313)
 
-Right now, JRuby builds disabled due problems with `psych` gem.
+Right now, JRuby builds disabled due CI problems.
